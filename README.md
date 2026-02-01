@@ -4,9 +4,11 @@
 <a href="https://github.com/amrmohiry-bit"><img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
 
 🎯 **Junior Front-End Developer**  
-💻 I build responsive, modern websites and interactive user experiences with HTML, CSS, JavaScript, and React.
+💻 I build responsive, modern websites and interactive user experiences using HTML, CSS, JavaScript, React, and Node.js.
 
-<br />
+<br/>
+
+<img align="right" alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ---
 
@@ -35,15 +37,18 @@
 
 ### 📊 GitHub Stats
 
-![Amr’s GitHub stats](https://github-readme-stats.vercel.app/api?username=amrmohiry-bit&show_icons=true&theme=tokyonight)
+![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrmohiry-bit&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrmohiry-bit&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🚀 Projects
 
-Check my repositories to see my work and practice assignments.  
-I’m focusing on responsive layouts, JavaScript logic, and React components.
+Check my repositories to see my **Front-End projects and assignments**.  
+Each project focuses on responsive layouts, JavaScript logic, and React components.
+
+- 🔹 Example: [](https://github.com/amrmohiry-bit/YOUR_PROJECT)
+- 🔹 Add more project links here as you complete them
 
 ---
 
