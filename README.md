@@ -47,7 +47,7 @@
 Check my repositories to see my **Front-End projects and assignments**.  
 Each project focuses on responsive layouts, JavaScript logic, and React components.
 
-- 🔹 Example: [](https://github.com/amrmohiry-bit/YOUR_PROJECT)
+- 🔹 Example: [DJI-Mavic-4-Pro](https://github.com/amrmohiry-bit/YOUR_PROJECT](https://amrmohiry-bit.github.io/DJI-Mavic-4-Pro/)
 - 🔹 Add more project links here as you complete them
 
 ---
