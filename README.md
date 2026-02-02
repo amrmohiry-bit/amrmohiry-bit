@@ -104,62 +104,12 @@ const amr = {
 🔹 Working on exciting new projects!  
 🔹 Check my repositories for updates
 
-</div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const currentGoals2025 = {
-  learning: [
-    "Advanced React Patterns",
-    "TypeScript",
-    "Next.js",
-    "Backend Development (Node.js)"
-  ],
-  building: [
-    "Portfolio Website",
-    "E-commerce Platform",
-    "Social Media Dashboard"
-  ],
-  improving: [
-    "Problem Solving Skills",
-    "Clean Code Practices",
-    "UI/UX Design"
-  ]
-};
-```
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Amr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amrmohiry-bit&theme=tokyo-night&hide_border=true)](https://github.com/amrmohiry-bit)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=amrmohiry-bit&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
@@ -199,6 +149,4 @@ If you like my projects, don't forget to ⭐ the repositories!
 
 **Thanks for visiting!** 🚀
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-</div>
